@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/saamyaaay/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0257-binary-tree-paths](https://github.com/saamyaaay/leetcode/tree/master/0257-binary-tree-paths) |
 ## Backtracking
 |  |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/saamyaaay/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/saamyaaay/leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [2308-divide-array-into-equal-pairs](https://github.com/saamyaaay/leetcode/tree/master/2308-divide-array-into-equal-pairs) |
 ## Divide and Conquer
@@ -49,4 +51,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2308-divide-array-into-equal-pairs](https://github.com/saamyaaay/leetcode/tree/master/2308-divide-array-into-equal-pairs) |
+## Sliding Window
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/saamyaaay/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 <!---LeetCode Topics End-->
