@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0039-combination-sum](https://github.com/saamyaaay/leetcode/tree/master/0039-combination-sum) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/saamyaaay/leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0303-range-sum-query-immutable](https://github.com/saamyaaay/leetcode/tree/master/0303-range-sum-query-immutable) |
 | [0560-subarray-sum-equals-k](https://github.com/saamyaaay/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [2308-divide-array-into-equal-pairs](https://github.com/saamyaaay/leetcode/tree/master/2308-divide-array-into-equal-pairs) |
 ## Hash Table
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0303-range-sum-query-immutable](https://github.com/saamyaaay/leetcode/tree/master/0303-range-sum-query-immutable) |
 | [0560-subarray-sum-equals-k](https://github.com/saamyaaay/leetcode/tree/master/0560-subarray-sum-equals-k) |
 ## Stack
 |  |
@@ -81,4 +83,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/saamyaaay/leetcode/tree/master/0242-valid-anagram) |
+## Design
+|  |
+| ------- |
+| [0303-range-sum-query-immutable](https://github.com/saamyaaay/leetcode/tree/master/0303-range-sum-query-immutable) |
 <!---LeetCode Topics End-->
