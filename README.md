@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/saamyaaay/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/saamyaaay/leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0141-linked-list-cycle](https://github.com/saamyaaay/leetcode/tree/master/0141-linked-list-cycle) |
 | [0560-subarray-sum-equals-k](https://github.com/saamyaaay/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [2308-divide-array-into-equal-pairs](https://github.com/saamyaaay/leetcode/tree/master/2308-divide-array-into-equal-pairs) |
 ## Divide and Conquer
@@ -66,4 +67,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/saamyaaay/leetcode/tree/master/0020-valid-parentheses) |
+## Linked List
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/saamyaaay/leetcode/tree/master/0141-linked-list-cycle) |
+## Two Pointers
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/saamyaaay/leetcode/tree/master/0141-linked-list-cycle) |
 <!---LeetCode Topics End-->
