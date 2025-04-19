@@ -19,15 +19,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/saamyaaay/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/saamyaaay/leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0257-binary-tree-paths](https://github.com/saamyaaay/leetcode/tree/master/0257-binary-tree-paths) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/saamyaaay/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0257-binary-tree-paths](https://github.com/saamyaaay/leetcode/tree/master/0257-binary-tree-paths) |
 ## Binary Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/saamyaaay/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/saamyaaay/leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0257-binary-tree-paths](https://github.com/saamyaaay/leetcode/tree/master/0257-binary-tree-paths) |
 ## Array
@@ -75,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/saamyaaay/leetcode/tree/master/0020-valid-parentheses) |
+| [0094-binary-tree-inorder-traversal](https://github.com/saamyaaay/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 ## Linked List
 |  |
 | ------- |
