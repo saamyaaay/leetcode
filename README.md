@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/saamyaaay/leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0152-maximum-product-subarray](https://github.com/saamyaaay/leetcode/tree/master/0152-maximum-product-subarray) |
 | [0189-rotate-array](https://github.com/saamyaaay/leetcode/tree/master/0189-rotate-array) |
+| [0268-missing-number](https://github.com/saamyaaay/leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/saamyaaay/leetcode/tree/master/0283-move-zeroes) |
 | [0303-range-sum-query-immutable](https://github.com/saamyaaay/leetcode/tree/master/0303-range-sum-query-immutable) |
 | [0560-subarray-sum-equals-k](https://github.com/saamyaaay/leetcode/tree/master/0560-subarray-sum-equals-k) |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/saamyaaay/leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0141-linked-list-cycle](https://github.com/saamyaaay/leetcode/tree/master/0141-linked-list-cycle) |
 | [0242-valid-anagram](https://github.com/saamyaaay/leetcode/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/saamyaaay/leetcode/tree/master/0268-missing-number) |
 | [0560-subarray-sum-equals-k](https://github.com/saamyaaay/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [2308-divide-array-into-equal-pairs](https://github.com/saamyaaay/leetcode/tree/master/2308-divide-array-into-equal-pairs) |
 ## Divide and Conquer
@@ -86,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/saamyaaay/leetcode/tree/master/0268-missing-number) |
 | [2308-divide-array-into-equal-pairs](https://github.com/saamyaaay/leetcode/tree/master/2308-divide-array-into-equal-pairs) |
 ## Counting
 |  |
@@ -123,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/saamyaaay/leetcode/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/saamyaaay/leetcode/tree/master/0268-missing-number) |
 ## Design
 |  |
 | ------- |
@@ -140,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/saamyaaay/leetcode/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/saamyaaay/leetcode/tree/master/0189-rotate-array) |
+| [0268-missing-number](https://github.com/saamyaaay/leetcode/tree/master/0268-missing-number) |
 | [1013-fibonacci-number](https://github.com/saamyaaay/leetcode/tree/master/1013-fibonacci-number) |
 ## Recursion
 |  |
@@ -156,4 +161,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/saamyaaay/leetcode/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/saamyaaay/leetcode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/saamyaaay/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
+## Binary Search
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/saamyaaay/leetcode/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
