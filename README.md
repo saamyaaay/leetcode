@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/saamyaaay/leetcode/tree/master/0053-maximum-subarray) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/saamyaaay/leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0152-maximum-product-subarray](https://github.com/saamyaaay/leetcode/tree/master/0152-maximum-product-subarray) |
+| [0189-rotate-array](https://github.com/saamyaaay/leetcode/tree/master/0189-rotate-array) |
 | [0303-range-sum-query-immutable](https://github.com/saamyaaay/leetcode/tree/master/0303-range-sum-query-immutable) |
 | [0560-subarray-sum-equals-k](https://github.com/saamyaaay/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [2308-divide-array-into-equal-pairs](https://github.com/saamyaaay/leetcode/tree/master/2308-divide-array-into-equal-pairs) |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/saamyaaay/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0125-valid-palindrome](https://github.com/saamyaaay/leetcode/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/saamyaaay/leetcode/tree/master/0141-linked-list-cycle) |
+| [0189-rotate-array](https://github.com/saamyaaay/leetcode/tree/master/0189-rotate-array) |
 ## Sorting
 |  |
 | ------- |
@@ -135,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/saamyaaay/leetcode/tree/master/0070-climbing-stairs) |
+| [0189-rotate-array](https://github.com/saamyaaay/leetcode/tree/master/0189-rotate-array) |
 | [1013-fibonacci-number](https://github.com/saamyaaay/leetcode/tree/master/1013-fibonacci-number) |
 ## Recursion
 |  |
