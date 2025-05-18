@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1524-string-matching-in-an-array](https://github.com/saamyaaay/leetcode/tree/master/1524-string-matching-in-an-array) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/saamyaaay/leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2308-divide-array-into-equal-pairs](https://github.com/saamyaaay/leetcode/tree/master/2308-divide-array-into-equal-pairs) |
+| [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/saamyaaay/leetcode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Hash Table
 |  |
 | ------- |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/saamyaaay/leetcode/tree/master/0268-missing-number) |
 | [0560-subarray-sum-equals-k](https://github.com/saamyaaay/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [2308-divide-array-into-equal-pairs](https://github.com/saamyaaay/leetcode/tree/master/2308-divide-array-into-equal-pairs) |
+| [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/saamyaaay/leetcode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -120,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/saamyaaay/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/saamyaaay/leetcode/tree/master/0076-minimum-window-substring) |
+| [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/saamyaaay/leetcode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Prefix Sum
 |  |
 | ------- |
