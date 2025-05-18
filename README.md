@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0257-binary-tree-paths](https://github.com/saamyaaay/leetcode/tree/master/0257-binary-tree-paths) |
 | [0443-string-compression](https://github.com/saamyaaay/leetcode/tree/master/0443-string-compression) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/saamyaaay/leetcode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
+| [1524-string-matching-in-an-array](https://github.com/saamyaaay/leetcode/tree/master/1524-string-matching-in-an-array) |
 | [2032-largest-odd-number-in-string](https://github.com/saamyaaay/leetcode/tree/master/2032-largest-odd-number-in-string) |
 ## Backtracking
 |  |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0303-range-sum-query-immutable](https://github.com/saamyaaay/leetcode/tree/master/0303-range-sum-query-immutable) |
 | [0485-max-consecutive-ones](https://github.com/saamyaaay/leetcode/tree/master/0485-max-consecutive-ones) |
 | [0560-subarray-sum-equals-k](https://github.com/saamyaaay/leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [1524-string-matching-in-an-array](https://github.com/saamyaaay/leetcode/tree/master/1524-string-matching-in-an-array) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/saamyaaay/leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2308-divide-array-into-equal-pairs](https://github.com/saamyaaay/leetcode/tree/master/2308-divide-array-into-equal-pairs) |
 ## Hash Table
@@ -218,4 +220,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/saamyaaay/leetcode/tree/master/0014-longest-common-prefix) |
+## String Matching
+|  |
+| ------- |
+| [1524-string-matching-in-an-array](https://github.com/saamyaaay/leetcode/tree/master/1524-string-matching-in-an-array) |
 <!---LeetCode Topics End-->
