@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/saamyaaay/leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/saamyaaay/leetcode/tree/master/0242-valid-anagram) |
 | [0257-binary-tree-paths](https://github.com/saamyaaay/leetcode/tree/master/0257-binary-tree-paths) |
+| [0443-string-compression](https://github.com/saamyaaay/leetcode/tree/master/0443-string-compression) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/saamyaaay/leetcode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [2032-largest-odd-number-in-string](https://github.com/saamyaaay/leetcode/tree/master/2032-largest-odd-number-in-string) |
 ## Backtracking
@@ -146,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/saamyaaay/leetcode/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/saamyaaay/leetcode/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/saamyaaay/leetcode/tree/master/0283-move-zeroes) |
+| [0443-string-compression](https://github.com/saamyaaay/leetcode/tree/master/0443-string-compression) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/saamyaaay/leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Sorting
 |  |
