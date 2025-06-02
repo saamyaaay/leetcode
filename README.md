@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/saamyaaay/leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/saamyaaay/leetcode/tree/master/0242-valid-anagram) |
 | [0257-binary-tree-paths](https://github.com/saamyaaay/leetcode/tree/master/0257-binary-tree-paths) |
+| [0424-longest-repeating-character-replacement](https://github.com/saamyaaay/leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0443-string-compression](https://github.com/saamyaaay/leetcode/tree/master/0443-string-compression) |
 | [0459-repeated-substring-pattern](https://github.com/saamyaaay/leetcode/tree/master/0459-repeated-substring-pattern) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/saamyaaay/leetcode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/saamyaaay/leetcode/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/saamyaaay/leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/saamyaaay/leetcode/tree/master/0268-missing-number) |
+| [0424-longest-repeating-character-replacement](https://github.com/saamyaaay/leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0560-subarray-sum-equals-k](https://github.com/saamyaaay/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [2308-divide-array-into-equal-pairs](https://github.com/saamyaaay/leetcode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/saamyaaay/leetcode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
@@ -128,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/saamyaaay/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/saamyaaay/leetcode/tree/master/0076-minimum-window-substring) |
+| [0424-longest-repeating-character-replacement](https://github.com/saamyaaay/leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/saamyaaay/leetcode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Prefix Sum
 |  |
