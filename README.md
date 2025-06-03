@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/saamyaaay/leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0443-string-compression](https://github.com/saamyaaay/leetcode/tree/master/0443-string-compression) |
 | [0459-repeated-substring-pattern](https://github.com/saamyaaay/leetcode/tree/master/0459-repeated-substring-pattern) |
+| [0812-rotate-string](https://github.com/saamyaaay/leetcode/tree/master/0812-rotate-string) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/saamyaaay/leetcode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1524-string-matching-in-an-array](https://github.com/saamyaaay/leetcode/tree/master/1524-string-matching-in-an-array) |
 | [2032-largest-odd-number-in-string](https://github.com/saamyaaay/leetcode/tree/master/2032-largest-odd-number-in-string) |
@@ -240,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0459-repeated-substring-pattern](https://github.com/saamyaaay/leetcode/tree/master/0459-repeated-substring-pattern) |
+| [0812-rotate-string](https://github.com/saamyaaay/leetcode/tree/master/0812-rotate-string) |
 | [1524-string-matching-in-an-array](https://github.com/saamyaaay/leetcode/tree/master/1524-string-matching-in-an-array) |
 ## Heap (Priority Queue)
 |  |
