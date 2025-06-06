@@ -1,17 +1,16 @@
 class Solution {
 public:
-    int climbStairsHelper(int n, vector<int>& ways) {
-        if (n == 0) return 1;
-        if (n < 0) return 0;
-        
-        if (ways[n] != -1) return ways[n];  // Memoization check
-
-        ways[n] = climbStairsHelper(n - 1, ways) + climbStairsHelper(n - 2, ways);
-        return ways[n];
-    }
-
     int climbStairs(int n) {
-        vector<int> ways(n + 1, -1);  // Initialize memoization array
-        return climbStairsHelper(n, ways);
+           int dp[n+1];
+           dp[0]=1;
+     for(int i = 1 ; i<=n ; i++){
+        if(i==1){
+            dp[i] = dp[i-1];
+        }else{
+        dp[i] = dp[i-1]+dp[i-2];
+        }
+     }
+ return dp[n];
     }
+   
 };
