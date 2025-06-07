@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/saamyaaay/leetcode/tree/master/0485-max-consecutive-ones) |
 | [0560-subarray-sum-equals-k](https://github.com/saamyaaay/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [1524-string-matching-in-an-array](https://github.com/saamyaaay/leetcode/tree/master/1524-string-matching-in-an-array) |
+| [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/saamyaaay/leetcode/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/saamyaaay/leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2308-divide-array-into-equal-pairs](https://github.com/saamyaaay/leetcode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/saamyaaay/leetcode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
@@ -220,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/saamyaaay/leetcode/tree/master/0268-missing-number) |
+| [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/saamyaaay/leetcode/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
 ## Greedy
 |  |
 | ------- |
