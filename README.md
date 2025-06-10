@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0459-repeated-substring-pattern](https://github.com/saamyaaay/leetcode/tree/master/0459-repeated-substring-pattern) |
 | [0812-rotate-string](https://github.com/saamyaaay/leetcode/tree/master/0812-rotate-string) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/saamyaaay/leetcode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
+| [1250-longest-common-subsequence](https://github.com/saamyaaay/leetcode/tree/master/1250-longest-common-subsequence) |
 | [1524-string-matching-in-an-array](https://github.com/saamyaaay/leetcode/tree/master/1524-string-matching-in-an-array) |
 | [2032-largest-odd-number-in-string](https://github.com/saamyaaay/leetcode/tree/master/2032-largest-odd-number-in-string) |
 ## Backtracking
@@ -193,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0124-binary-tree-maximum-path-sum](https://github.com/saamyaaay/leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0152-maximum-product-subarray](https://github.com/saamyaaay/leetcode/tree/master/0152-maximum-product-subarray) |
 | [1013-fibonacci-number](https://github.com/saamyaaay/leetcode/tree/master/1013-fibonacci-number) |
+| [1250-longest-common-subsequence](https://github.com/saamyaaay/leetcode/tree/master/1250-longest-common-subsequence) |
 ## Math
 |  |
 | ------- |
